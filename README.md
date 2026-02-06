@@ -1,6 +1,6 @@
-# macOS Glass Attendance System
+# macOS Glass Attendance System (PUNCH_ATTENDANCE)
 
-A beautiful, high-fidelity macOS-style Attendance Management System built with Next.js, Tailwind CSS, Framer Motion, and Supabase.
+Note punch in and punch out time. A beautiful, high-fidelity macOS-style Attendance Management System built with Next.js, Tailwind CSS, Framer Motion, and Supabase.
 
 ## Features
 
